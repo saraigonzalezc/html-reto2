@@ -1,0 +1,70 @@
+#Titulo {
+    text-align: center;
+    color: blue;
+}
+.imagen-s{ display: flex;
+  justify-content: center; 
+
+}
+.soñar-foto{
+  width: 20%;
+  height: 20%;
+
+}
+
+.textito{font-size: 18px;
+
+}
+body {
+    background-color: #E6E6FA;
+    font-family: sans-serif;
+    padding: 30px;
+    text-align: justify;
+}
+
+.primer-div {
+    padding: 20px;
+    background-color: floralwhite;
+}
+
+.homeoffice {
+    max-width: 15%;
+    align-items: center;
+    padding: 15px;
+}
+
+.segundo-div {
+    padding: 15px;
+    
+}
+
+caption{
+    text-align: left;
+    font-size: large;
+    padding-top: 10px;
+}
+
+table,
+th,
+td {
+    margin: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: lavenderblush;
+}
+
+td {
+    background-color: antiquewhite;
+}
+
+footer {
+  background-color: #666699;   
+  color: white;             
+  text-align: center;      
+  padding: 20px 0;         
+  font-size: 14px;          
+  position: relative;       
+}
